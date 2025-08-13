@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is a responsive landing page project created while following a youtube tutorial by [Brad Travery](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=5309s) to practice tailwind css.
+This is a responsive landing page project created while following a [youtube tutorial by Brad Travery](https://www.youtube.com/watch?v=dFgzHOX84xQ&t=5309s) to practice tailwind css.
 
 ## Screenshots
 
